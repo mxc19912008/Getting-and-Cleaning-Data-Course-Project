@@ -24,29 +24,29 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 # This is how the script works
 
-# 1. Merge the training and the test sets to create one data set.
+## 1. Merge the training and the test sets to create one data set.
 
-## step 1: download zip file from website
+### step 1: download zip file from website
 
-## step 2: unzip the data
+### step 2: unzip the data
 
-## step 3: load the data into R
+### step 3: load the data into R
 
-## step 4: merge the train and test data
+### step 4: merge the train and test data
 
 
-# 2. Extract only the measurements on the mean and standard deviation for each measurement. 
+## 2. Extract only the measurements on the mean and standard deviation for each measurement. 
 
-## step 1: load feature name into R
+### step 1: load feature name into R
 
-## step 2:  extract mean and standard deviation of each measurements
+### step 2:  extract mean and standard deviation of each measurements
 
-# 3. Uses descriptive activity names to name the activities in the data set
+## 3. Uses descriptive activity names to name the activities in the data set
 
-## step 1: load activity data into R
+### step 1: load activity data into R
 
-## step 2: replace 1 to 6 with activity names
+### step 2: replace 1 to 6 with activity names
 
-# 4. Appropriately labels the data set with descriptive variable names.
+## 4. Appropriately labels the data set with descriptive variable names.
 
-# 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+## 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
